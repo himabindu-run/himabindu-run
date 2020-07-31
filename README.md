@@ -21,8 +21,9 @@ I am kinda sorta **"Jack of all trades but Master of none"**
 Fortunately, that allows me to learn various things!
 
 ##### Wanna know What's cooking:grey_exclamation::grey_question:
+**Mainly fighting for productivity in this ball game ~sigh**
 
-- Working on a ChatBot for this [website](wtef.talentsprint.com) and mainly fighting for productivity in this ball game **~sigh**
+- Working on a ChatBot for this [website](wtef.talentsprint.com).
 - I am recently into front end things like HTML, CSS et cetera...
 - Desperately want to start #100DaysOfCode to kill the master procrastinator in me.
 - Learning how to learn:grey_exclamation:
