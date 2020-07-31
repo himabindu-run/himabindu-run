@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 I am Hima Bindu, a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html) and a perfect todo list writer and time table maker!
 
 *I was a name sake CS undergrad untill i dual booted my laptop myself. Then i started loving technology and computers... and that made me curious about each and every domain in this tech felid!*
+
 I am free to work with anyone in any feild and learn anything regarding Computers and Tech!
-I am kinda sorta **"Jack of all trades but Master of none"**
+
+I am kinda sorta **"Jack of all trades but Master of none"**.
 Fortunately, that allows me to learn various things!
 
 ### Wanna know What's cooking:grey_exclamation::grey_question:
