@@ -34,13 +34,18 @@ Fortunately, that allows me to learn various things!
 
 ##### You can reach me on...
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that's interesting to me!
+
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
 
 ##### Pronouns :stuck_out_tongue_winking_eye:
-sis
+sis 
+
 she
+
 her
+
 bro
+
 dude
 
 ##### Fun fact :zap:
