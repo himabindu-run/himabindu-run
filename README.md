@@ -39,13 +39,9 @@ Fortunately, that allows me to learn various things!
 
 ##### Pronouns :stuck_out_tongue_winking_eye:
 sis 
-
 she
-
 her
-
 bro
-
 dude
 
 ##### Fun fact :zap:
