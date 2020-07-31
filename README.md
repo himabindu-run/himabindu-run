@@ -33,7 +33,7 @@ Fortunately, that allows me to learn various things!
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid and weird things or even great psychological and philosophical!
 
-### You can reach me on...
+### You can reach me on... :grin::speech_balloon:
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that's interesting to me!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
