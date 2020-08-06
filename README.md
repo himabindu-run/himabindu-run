@@ -24,11 +24,10 @@ Fortunately, that allows me to learn various things!
 
 ### Wanna know What's cooking:grey_exclamation::grey_question:
 **Mainly fighting for productivity in this ball game ~sigh**
-
+- Learning how to learn:grey_exclamation:
 - Working on a ChatBot for this [website](wtef.talentsprint.com).
 - I am recently into front end things like HTML, CSS et cetera...
-- Desperately want to start #100DaysOfCode to kill the master procrastinator in me.
-- Learning how to learn:grey_exclamation:
+
 
 ### We can talk about... :computer: 
 - Python, C, Cpp and Haskell(If and only if  you want to be adventurous)
@@ -36,7 +35,7 @@ Fortunately, that allows me to learn various things!
 - Stupid and weird things or even great psychological and philosophical!
 
 ### You can reach me on... :grin::speech_balloon:
-[Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that's interesting to me!
+[Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests to me!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
 
