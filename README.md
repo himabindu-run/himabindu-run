@@ -19,18 +19,18 @@ I am Hima Bindu, a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html) an
 
 I am free to work with anyone in any feild and learn anything regarding Computers and Tech!
 
-I am kinda sorta **"Jack of all trades but Master of none"**.
+I am kinda sorta **"Jack of all trades"**.
 Fortunately, that allows me to learn various things!
 
 ### Wanna know What's cooking:grey_exclamation::grey_question:
 **Mainly fighting for productivity in this ball game ~sigh**
 - Learning how to learn:grey_exclamation:
-- Working on a ChatBot for this [website](wtef.talentsprint.com).
+- Working with one of [peer](https://github.com//sakethVishnu) on an Mobile app.
 - I am recently into front end things like HTML, CSS et cetera...
 
 
 ### We can talk about... :computer: 
-- Python, C, Cpp and Haskell(If and only if  you want to be adventurous)
+- Python, C, Cpp and Haskell(If and only if  you want to be adventurous as my favourite teacher says XD)
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid and weird things or even great psychological and philosophical!
 
