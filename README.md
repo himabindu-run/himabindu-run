@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hola!:wave: Hima Bindu here...  :mask:
 I am Hima Bindu, a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html) and a perfect todo list writer and time table maker!
 
-*I was a name sake CS undergrad untill i dual booted my laptop myself. Then i started loving technology and computers... and that made me curious about each and every domain in this tech felid!*
+*I was a name sake CS undergrad untill i dual booted my laptop myself, well I used to repair my CPU sometimes. Then i started loving technology and computers... and that made me curious about each and every domain in this tech felid!*
 
 I am free to work with anyone in any feild and learn anything regarding Computers and Tech!
 
