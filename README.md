@@ -26,7 +26,8 @@ Fortunately, that allows me to learn various things!
 **Mainly fighting for productivity in this ball game ~sigh**
 - Learning how to learn:grey_exclamation:
 - Working with one of [peer](https://github.com//sakethVishnu) on an Mobile app.
-- I am recently into front end things like HTML, CSS et cetera...
+- Exploring Open-Source and manim.
+- I am recently into front end like HTML, CSS et cetera...
 
 
 ### We can talk about... :computer: 
@@ -39,13 +40,13 @@ Fortunately, that allows me to learn various things!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
 
+And by the way read my technical writings [here](https://medium.com/@b.i.n.d.o) and feel free to give feedback :)
+
 ### Pronouns :stuck_out_tongue_winking_eye:
 sis, 
 she,
 her,
 bro,
-dude.
+dudette.
 
-### Fun fact :zap:
-Well, It may not be funny for many of you but yeah my friends call me creative and artsy...I think it's because of [this](https://www.instagram.com/an_artsy_pion/).
-And by the way... I write some technical stuff [here](https://medium.com/@b.i.n.d.o) in Medium.
+
