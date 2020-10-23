@@ -17,30 +17,27 @@ I am Hima Bindu, a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), S
 
 *I was a name sake CS undergrad untill i dual booted my laptop myself, well I used to repair my CPU sometimes. Then I started loving technology and computers... and that made me curious about each domain*
 
-I am happy to work with anyone in any feild and learn anything regarding Computers and Tech!
-
-I am kinda **"Jack of all trades"**.
+I'm kinda **"Jack of all trades"**.
 Fortunately, that allows me to learn various things!
 
 ### Wanna know What's cooking:grey_exclamation::grey_question:
 **Mainly fighting for productivity in this ball game ~sigh**
 - Learning how to learn:grey_exclamation:
-- Working with one of [peer](https://github.com//sakethVishnu) on an Mobile app.
 - Exploring Open-Source and manim.
 - I am recently into front end like HTML, CSS et cetera...
 
 
 ### We can talk about... :computer: 
-- Python, C, Cpp and Haskell(If and only if  you want to be adventurous as my favourite teacher says XD)
+- Python, C, Cpp and Haskell(If and only if you want to be Adventurous)
 - Mathematics, Data structures, Algorithms, and Competitive programming.
-- Stupid and weird things or even great psychological and philosophical!
+- Stupid and weird things or even great psychological and philosophical things!
 
 ### You can reach me on... :grin::speech_balloon:
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests to me!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
 
-And by the way read my technical writings [here](https://medium.com/@b.i.n.d.o) and feel free to give feedback :)
+And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
 
 ### Pronouns :smile:
 sis, 
