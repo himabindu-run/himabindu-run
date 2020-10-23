@@ -42,7 +42,7 @@ Fortunately, that allows me to learn various things!
 
 And by the way read my technical writings [here](https://medium.com/@b.i.n.d.o) and feel free to give feedback :)
 
-### Pronouns :stuck_out_tongue_winking_eye:
+### Pronouns :smile:
 sis, 
 she,
 her,
