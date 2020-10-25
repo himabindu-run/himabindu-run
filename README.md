@@ -13,29 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola!:wave: Hima Bindu here...  :mask:
-I am Hima Bindu, a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC lead and a perfect todo list writer and time table maker!
+I wonder what you are doing here on my profile... but anyway. Nice to see you.
 
-*I was a name sake CS undergrad untill i dual booted my laptop myself, well I used to repair my CPU sometimes. Then I started loving technology and computers... and that made me curious about each domain*
+I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC lead and a perfect todo list writer and time table maker!
 
 I'm kinda **"Jack of all trades"**.
-Fortunately, that allows me to learn various things!
+Apparently, that allows me to learn various stuff!
 
 ### Wanna know What's cooking:grey_exclamation::grey_question:
 **Mainly fighting for productivity in this ball game ~sigh**
 - Learning how to learn:grey_exclamation:
-- Exploring Open-Source and manim.
-- I am recently into front end like HTML, CSS et cetera...
+- Reading "Cateogry Theory for programmers" by Bartosz Milewski.
+- Learning about Databses and stuff.
 
 
 ### We can talk about... :computer: 
-- Python, C, Cpp and Haskell(If and only if you want to be Adventurous)
+- Python, C, Cpp and Haskell(If and only if you want to be Adventurous xD)
 - Mathematics, Data structures, Algorithms, and Competitive programming.
-- Stupid and weird things or even great psychological and philosophical things!
+- Stupid-weird-psychological-philosophical things too!
 
 ### You can reach me on... :grin::speech_balloon:
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests to me!
 
-[LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to talk.
+[LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to reach me in any case.
 
 And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
 
@@ -45,5 +45,3 @@ she,
 her,
 bro,
 dudette.
-
-
