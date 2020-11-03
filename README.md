@@ -24,7 +24,8 @@ Apparently, that allows me to learn various stuff!
 **Mainly fighting for productivity in this ball game ~sigh**
 - Learning how to learn:grey_exclamation:
 - Reading "Cateogry Theory for programmers" by Bartosz Milewski.
-- Learning about Databses and stuff.
+- Learning about Databases
+- Codingggggg
 
 
 ### We can talk about... :computer: 
@@ -33,7 +34,7 @@ Apparently, that allows me to learn various stuff!
 - Stupid-weird-psychological-philosophical things too!
 
 ### You can reach me on... :grin::speech_balloon:
-[Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests to me!
+[Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests me!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to reach me in any case.
 
