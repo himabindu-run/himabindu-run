@@ -40,5 +40,6 @@ Apparently, that allows me to learn various stuff!
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/) - If you want to reach me in any case.
 
 <!-- And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
+-->
 
 ## Pronouns - she/her/dudette :smile:
