@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola!:wave: Hima Bindu here...  :mask:
+### Hola! Hima Bindu here...  :mask:
 I wonder what you are doing here on my profile... but anyway. Nice to see you.
 
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC lead and a perfect todo list writer and time table maker!
@@ -29,7 +29,7 @@ Apparently, that allows me to learn various stuff!
 - programmingggggg
 
 
-### We can talk about... :computer: 
+### We can talk about...
 - Python, C, Cpp and Haskell(If and only if you want to be Adventurous xD)
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid-weird-psychological-philosophical things too!
@@ -42,4 +42,4 @@ Apparently, that allows me to learn various stuff!
 <!-- And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
 -->
 
-## Pronouns - she/her/dudette :smile:
+Pronouns - she/her/dudette
