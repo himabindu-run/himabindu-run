@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Hola! Hima Bindu here...  :mask:
-I wonder what you are doing here on my profile... but anyway. Nice to see you.
+Nice to see you.
 
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
 
@@ -33,6 +33,8 @@ I'm kinda **"Jack of all trades"**.
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests me!
 
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
+
+No Fun Facts! I'm Fun.
 
 <!-- And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
 -->
