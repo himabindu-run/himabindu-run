@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 ### Hola! Hima Bindu here...  :mask:
 I wonder what you are doing here on my profile... but anyway. Nice to see you.
 
-I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC lead and a perfect todo list writer and time table maker!
+I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
 
 I'm kinda **"Jack of all trades"**.
-Apparently, that allows me to learn various stuff!
 
-### What's cooking:grey_exclamation::grey_question:
-**Mainly fighting for productivity in this ball game ~sigh**
-- Learning how to learn:grey_exclamation:
+### What's cooking :grey_question:
 - Reading "Cateogry Theory for programmers" by Bartosz Milewski.
 - Learning about Databases
-- Trying Home automation etc.. 
 - programmingggggg
 
 
 ### We can talk about...
-- Python, C, Cpp and Haskell(If and only if you want to be Adventurous xD)
+- Python, C, Cpp, Haskell, Java.
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid-weird-psychological-philosophical things too!
 
