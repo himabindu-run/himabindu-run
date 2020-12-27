@@ -22,7 +22,7 @@ I'm kinda **"Jack of all trades"**.
 #### What's cooking :grey_question:
 - Reading "Cateogry Theory for programmers" by Bartosz Milewski.
 - Learning about Databases
-- programmingggggg
+- programmingggggg and preparing for a Interview.
 
 #### We can talk about...
 - Python, C, Cpp, Haskell, Java.
