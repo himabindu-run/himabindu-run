@@ -30,7 +30,9 @@ I'm kinda **"Jack of all trades"**.
 
 #### Reach me on...
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests me!
+
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
 
 No Fun Facts! I'm Fun
+
 Pronouns - she/her/dudette
