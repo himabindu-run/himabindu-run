@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 Nice to see you.
 
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
-
 I'm kinda **"Jack of all trades"**.
 
 #### What's cooking :grey_question:
@@ -31,12 +30,7 @@ I'm kinda **"Jack of all trades"**.
 
 #### Reach me on...
 [Twitter](https://twitter.com/BinduTenneti) - I tweet mostly about pragmatic stuff, puns and anything that interests me!
-
 [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
 
-No Fun Facts! I'm Fun.
-
-<!-- And by the way if you can read my technical writings [here](https://medium.com/@b.i.n.d.o) please do feel free to give me some feedback :))
--->
-
+No Fun Facts! I'm Fun
 Pronouns - she/her/dudette
