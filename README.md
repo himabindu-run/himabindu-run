@@ -1,7 +1,7 @@
-#### Hola! Hima Bindu this side [She/her]
+#### Hola! Hima Bindu here... [She/her]
 _____________________________________________________________________
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
-I'm kinda **"Jack of all trades"**.
+:zap: I'm kinda **"Jack of all trades"**.
 
 #### What's cooking :grey_question:
 - Reading "Cateogry Theory for programmers" by Bartosz Milewski.
@@ -13,7 +13,7 @@ I'm kinda **"Jack of all trades"**.
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid-weird-psychological-philosophical things too!
 
-No Fun Facts! I'm Fun.
+:eyes: No Fun Facts! I'm Fun.
 
 > Reach me on [Twitter](https://twitter.com/BinduTenneti) or [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
 
