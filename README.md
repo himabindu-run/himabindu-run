@@ -12,6 +12,7 @@ I'm kinda **"Jack of all trades"**.
 - Python, C, Cpp, Haskell, Java.
 - Mathematics, Data structures, Algorithms, and Competitive programming.
 - Stupid-weird-psychological-philosophical things too!
+
 No Fun Facts! I'm Fun.
 
 > Reach me on [Twitter](https://twitter.com/BinduTenneti) or [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
