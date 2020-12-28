@@ -1,4 +1,4 @@
-#### :mask: Hola! Hima Bindu here...[She/her](http://pronoun.is/she)
+#### Hola! Hima Bindu this side [She/her]
 _____________________________________________________________________
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
 I'm kinda **"Jack of all trades"**.
