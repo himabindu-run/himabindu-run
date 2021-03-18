@@ -4,9 +4,9 @@ I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in G
 :zap: I'm kinda **"Jack of all trades"**.
 
 #### What's cooking :grey_question:
-- Reading "Cateogry Theory for programmers" by Bartosz Milewski.
-- Learning about Databases
-- programmingggggg and preparing for an Interview.
+- Reading "Learn a you a Haskell for great good" and solving some problems in Haskell.
+- Trying to solve more problems. 
+- Learning Data Structures and Algorithms(This is never ending).
 
 #### We can talk about...
 - Python, C, Cpp, Haskell, Java.
