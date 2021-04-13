@@ -1,7 +1,7 @@
 #### Hola! Hima Bindu here... [She/her]
 _____________________________________________________________________
-I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club. 
-:zap: I'm kinda **"Jack of all trades"**.
+I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Scholar in Google's Women Tech-Makers Engineering Fellows, Core member in GVP-DSC club, IEEE GVP'S student branch CS society Vice Chair and a To-Do list writer.
+:zap:
 
 #### What's cooking :grey_question:
 - Reading "Learn a you a Haskell for great good" and solving some problems in Haskell.
