@@ -3,8 +3,8 @@ _____________________________________________________________________
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Theoretical CS and mathematics enthusiast. I like solving problems and making lists.
 
 #### What's cooking :grey_question:
-- Trying my Hands on ML with a Peer group.
-- Trying to solve more problems.
+- Trying my Hands on ML with Peer group.
+- Solvinggg more problems each day.
 - Exploring cool stuff in Maths.
 
 #### We can talk about...
