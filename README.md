@@ -12,7 +12,7 @@ I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Theoretical 
 - Mathematics, Data structures, Algorithms, and Clean Code.
 - Stupid-weird-psychological-philosophical stuff too!
 
-:eyes: No Fun Facts! I am the "FUN".
+:eyes: No Fun Facts! I'm Fun.
 
 If you are still not bored of me, look at my [website](https://portfolios.talentsprint.com/~hima_bindu) too.
 
