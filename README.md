@@ -1,4 +1,4 @@
-#### Hola! Hima Bindu here... [She/her]
+#### Hello yelloww, Hima Bindu here! [She/her]
 _____________________________________________________________________
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in/index1.html), a Theoretical CS and mathematics enthusiast. I like solving problems and making lists.
 
