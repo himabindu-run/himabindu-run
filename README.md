@@ -1,19 +1,11 @@
 #### Hello yelloww, Hima Bindu here! [She/her]
 _____________________________________________________________________
-I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in), a Theoretical CS and pure mathematics enthusiast. Computers and communnities are something i am involved with on daily basis. I love solving problems, learning new programming languages and making lists.
+I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in), a Theoretical CS and pure mathematics enthusiast. Computers and communnities are something i am involved with on daily basis. I love solving problems, learning new programming languages, building accessible software and making lists.
 
 #### What do i do?
 - Making my Hands dirty with ML.
-- Solving more problems each day.
-- Growing our local community, this keeps me busy most of the time :D
-- Exploring cool stuff in Maths and Theoretical CS.
-
-#### We can talk about...
-- Python, C, C++, Haskell, Java.
-- Mathematics, Data structures, Algorithms, and Clean Code.
-- Stupid-weird-psychological-philosophical stuff too!
-
-:eyes: No Fun Facts! I'm Fun.
+- Solving more problems under Interview Pressure :|
+- Working on my FP skills. Functional Programming FTW!
 
 If you are still not bored of me, take look at my [website](https://portfolios.talentsprint.com/~hima_bindu) too.
 
