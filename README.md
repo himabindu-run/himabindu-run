@@ -3,7 +3,8 @@ _____________________________________________________________________
 I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in), a Theoretical CS and pure mathematics enthusiast. Computers and communnities are something i am involved with on daily basis. I love solving problems, learning new programming languages, building accessible software and making lists.
 
 #### What do i do?
-- Making my Hands dirty with ML.
+- Participating in Hackathons???
+- Making my Hands dirty with Go.
 - Solving more problems under Interview Pressure :|
 - Working on my FP skills. Functional Programming FTW!
 
