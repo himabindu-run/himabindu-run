@@ -1,6 +1,6 @@
 #### yellow, Hima Bindu here!
 _____________________________________________________________________
-Associate Software Engineer at [Apxor](https://www.apxor.com/). Apart from workingbeyond work hours, I love solving problems, painting, reading books, learning new programming languages, building accessible software and making lists.
+Associate Software Engineer at [Apxor](https://www.apxor.com/). Apart from working beyond work hours, I love solving problems, painting, reading books, learning new programming languages, building accessible software and making lists.
 
 #### What do i do?
 - Exploring and trying cool stuff in Android, react native and flutter???
