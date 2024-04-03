@@ -1,6 +1,6 @@
-#### Hello yelloww, Hima Bindu here!
+#### yellow, Hima Bindu here!
 _____________________________________________________________________
-I'm a CS undergrad at [GVPCE(A)](http://gvpce.ac.in), a Theoretical CS and pure mathematics enthusiast. Computers and communnities are something i am involved with on daily basis. I love solving problems, learning new programming languages, building accessible software and making lists.
+Associate Software Engineer at [Apxor](https://www.apxor.com/). Apart from workingbeyond work hours, I love solving problems, painting, reading books, learning new programming languages, building accessible software and making lists.
 
 #### What do i do?
 - Participating in Hackathons???
