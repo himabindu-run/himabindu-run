@@ -1,13 +1,13 @@
-#### yellow, Hima Bindu here!
+#### hii, Hima Bindu here!
 _____________________________________________________________________
-Associate Software Engineer at [Apxor](https://www.apxor.com/). Apart from working beyond work hours, I love solving problems, painting, reading books, learning new programming languages, building accessible software and making lists.
+I am a Freelance Software Engineer. Apart from working, I love solving problems, learning new programming languages, building accessible software, painting, reading books, and making lists.
 
 #### What do i do?
-- Exploring and trying cool stuff in Android, react native and flutter???
-- Making my Hands dirty with Go.
-- Sometimes cry over React and css.
+- Develop amazing scalable backend systems - go, python, kube, docker, distributed systems, algorithms, system design blah blah i love everything about backend
+- User friendly frontend projects, mostly CMS integrated Portfolios, Blogs for clients
+- Sometimes, only If i get paid good enough, i also work on Android Projects
 
-If you are still not bored of me, take look at my [website](https://portfolios.talentsprint.com/~hima_bindu) too.
+If you are still not bored, take look at my [website](https://portfolios.talentsprint.com/~hima_bindu) too.
 
 > Reach me on [Twitter](https://twitter.com/BinduTenneti) or [LinkedIn](https://www.linkedin.com/in/hima-bindu-002a45194/)
 
